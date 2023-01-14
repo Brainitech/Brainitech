@@ -1,8 +1,10 @@
-![logo]()
-<h1 align="center">Hi 👋, I'm Brainiac</h1>
+![logo](![glowing-blue-cuircuit-lines-diagram_1017-33018](https://user-images.githubusercontent.com/116993889/212467147-b74aa15d-2571-43c8-89ea-df3d38fd6f33.png)
+)
+<h1 align="center">Hi 👋🏻, I'm Brainiac</h1>
 <h3 align="center">A curious 17yr old Interested in Computer Science</h3>
 
 <img align="right" alt="hacker" width="300" src="https://user-images.githubusercontent.com/116993889/212463393-80557428-ad8c-42cb-9f9e-bc7f447eb126.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brainitech&label=Profile%20views&color=0e75b6&style=flat" alt="brainitech" /> </p>
 
