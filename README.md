@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Brainiac</h1>
 <h3 align="center">A curious 17yr old Interested in Computer Science</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brainitech&label=Profile%20views&color=0e75b6&style=flat" alt="brainitech" /> </p>
-
 - 📫 How to reach me **gaming.brainiac2020@gmail.com**
 
 - ⚡ Fun fact **I'm a extreme overthinker**
