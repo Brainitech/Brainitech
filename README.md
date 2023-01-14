@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Brainiac</h1>
 <h3 align="center">A curious 17yr old Interested in Computer Science</h3>
 
-<img align="right" alt="hacker" width="300" src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkt4Z0xOWjRuM3lzRWVVZi1Oc0JPR3lSQWhxd3xBQ3Jtc0tsTW15bnFEVldZVlZTdVlRYlhRSk0yYlJ2VEdDYkR0RkdOMVlaZk1oWENnRlR4aldkSTVDSTQyc1BRYjN1eHA0SnhHNHBHclhmeHJfZ2tPU1BaaEtndlZHLUh0cl9OZXhrM1FRVnZqZXJraG05VGo1VQ&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0)
+<img align="right" alt="hacker" width="300" src="![image](https://user-images.githubusercontent.com/116993889/212463308-a5c97085-011a-45b6-a4e8-e30f2e2ceb84.png)
+)
 ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brainitech&label=Profile%20views&color=0e75b6&style=flat" alt="brainitech" /> </p>
