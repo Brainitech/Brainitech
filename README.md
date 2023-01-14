@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brainiac</h1>
 <h3 align="center">A curious 17yr old Interested in Computer Science</h3>
 
-<img align="right" alt="hacker" width="300" src="![image](https://user-images.githubusercontent.com/116993889/212463308-a5c97085-011a-45b6-a4e8-e30f2e2ceb84.png)
+<img align="right" alt="hacker" width="300" src="![hacker](https://user-images.githubusercontent.com/116993889/212463308-a5c97085-011a-45b6-a4e8-e30f2e2ceb84.png)
 )
 ">
 
