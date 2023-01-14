@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brainiac</h1>
 <h3 align="center">A curious 17yr old Interested in Computer Science</h3>
 
-<img align="right" alt="hacker" width="500" scr="https://user-images.githubusercontent.com/116993889/212462964-92c80d73-bb51-439e-994a-96c1aab1956b.gif">
+<img align="right" width="500" src="https://user-images.githubusercontent.com/116993889/212462964-92c80d73-bb51-439e-994a-96c1aab1956b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brainitech&label=Profile%20views&color=0e75b6&style=flat" alt="brainitech" /> </p>
 
