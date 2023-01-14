@@ -1,3 +1,4 @@
+![logo]()
 <h1 align="center">Hi 👋, I'm Brainiac</h1>
 <h3 align="center">A curious 17yr old Interested in Computer Science</h3>
 
