@@ -1,7 +1,7 @@
 ![glowing-blue-cuircuit-lines-diagram_1017-33018](https://user-images.githubusercontent.com/116993889/212467181-a53d7011-4aa2-45bf-9f21-e6389331f2b1.png)
 
 <h1 align="center">Hi 👋🏻, I'm Brainiac</h1>
-<h3 align="center">A curious 17yr old Interested in Computer Science</h3>
+<h3 align="center">A curious 19yr old Interested in Computer Science</h3>
 
 <img align="right" alt="hacker" width="300" src="https://user-images.githubusercontent.com/116993889/212463393-80557428-ad8c-42cb-9f9e-bc7f447eb126.gif">
 
