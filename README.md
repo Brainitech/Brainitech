@@ -1,21 +1,123 @@
-![glowing-blue-cuircuit-lines-diagram_1017-33018](https://user-images.githubusercontent.com/116993889/212467181-a53d7011-4aa2-45bf-9f21-e6389331f2b1.png)
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    GITHUB PROFILE README                       -->
+<!--                  github.com/Brainitech                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h1 align="center">Hi 👋🏻, I'm Brainiac</h1>
-<h3 align="center">A curious 20yr old Interested in Computer Science</h3>
+<!-- HEADER ──────────────────────────────────────────────────────── -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b2e,50:24283b,100:1a1b2e&height=180&section=header&text=Brainiac&fontSize=52&fontColor=c0caf5&animation=twinkling&fontAlignY=38&desc=AI%2FML%20Student%20%7C%20Linux%20Enjoyer%20%7C%20Open%20Source&descAlignY=56&descSize=18&descColor=7aa2f7" />
 
-<img align="right" alt="hacker" width="300" src="https://user-images.githubusercontent.com/116993889/212463393-80557428-ad8c-42cb-9f9e-bc7f447eb126.gif">
+<div align="center">
+
+<!-- TYPING ANIMATION ────────────────────────────────────────────── -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&lines=%24+whoami;AI%2FML+student+%40+BIT+Mesra;building+things+that+learn;arch+linux+%7C+neovim+%7C+open+source" alt="Typing SVG" />
+
+</div>
+
+---
+
+<!-- ───────────────────────── ABOUT ───────────────────────────── -->
+
+`❯ cat about.txt`
+
+```
+┌──────────────────────────────────────────────────────────────────┐
+│                                                                  │
+│   name    →  Brainiac                                            │
+│   role    →  AI / ML student                                     │
+│   uni     →  BIT Mesra                                           │
+│   os      →  Arch Linux + Hyprland                               │
+│   editor  →  neovim  (obviously)                                 │
+│   side    →  QML ricing · 3D modeling · open source              │
+│   status  →  Building things that learn                          │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+<!-- ───────────────────────── STATS ───────────────────────────── -->
+
+`❯ fastfetch --stats`
+
+<div align="center">
+
+<img height="170"
+  src="https://github-readme-stats.vercel.app/api?username=Brainitech&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+<img height="170"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brainitech&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=Brainitech&theme=tokyonight&hide_border=true" />
+
+</div>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brainitech&label=Profile%20views&color=0e75b6&style=flat" alt="brainitech" /> </p>
+---
 
-- 📫 How to reach me **gaming.brainiac2020@gmail.com**
+<!-- ─────────────────────── PROJECTS ─────────────────────────── -->
 
-- ⚡ Fun fact **I'm a extreme overthinker**
+`❯ ls -la ~/projects/`
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/saahit_008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saahit_008" height="30" width="40" /></a>
-</p>
+<!-- PROJECTS:START -->
+<!-- PROJECTS:END -->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+<!-- ─────────────────────── TECH STACK ───────────────────────── -->
+
+`❯ cat stack.conf`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,bash,cpp,js,nodejs,lua,neovim,arch,git,blender&theme=dark&perline=10" />
+
+</div>
+
+---
+
+<!-- ──────────────────── CURRENTLY WORKING ON ─────────────────── -->
+
+`❯ top --processes`
+
+```
+ process                    progress           context
+ ────────────────────────────────────────────────────────────────────
+ AI / ML                   [▓▓▓▓▓▓░░░░]   →  main focus
+ Brain Shell (QML)         [▓▓▓▓▓░░░░░]   →  active open-source project
+ Generalist Dev            [▓▓▓░░░░░░░]   →  ML · web · systems · rice · tools
+```
+
+---
+
+<!-- ──────────────────────── CONTACT ──────────────────────────── -->
+
+`❯ cat contacts.txt`
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-1a1b2e?style=for-the-badge&logo=github&logoColor=c0caf5)](https://github.com/Brainitech)
+[![Email](https://img.shields.io/badge/Email-1a1b2e?style=for-the-badge&logo=gmail&logoColor=c0caf5)](mailto:gaming.brainiac2020@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-1a1b2e?style=for-the-badge&logo=discord&logoColor=c0caf5)](https://discord.com/users/768081564797239306)
+
+</div>
+
+---
+
+<!-- ─────────────────── ACTIVITY GRAPH ────────────────────────── -->
+
+<div align="center">
+
+<img width="95%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Brainitech&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+<!-- FOOTER WAVE ─────────────────────────────────────────────────── -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b2e,50:24283b,100:1a1b2e&height=80&section=footer" />
+
+<div align="center">
+<sub>crafted on arch · running on caffeine and neural networks</sub>
+</div>
