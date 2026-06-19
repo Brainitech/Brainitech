@@ -70,17 +70,17 @@
 <div align="center">
 
 <a href="https://github.com/Brainitech/Brain_Shell">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Brainitech&repo=Brain_Shell&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Brainitech&repo=Brain_Shell&theme=tokyonight&hide_border=true&v=1" />
 </a>
 <a href="https://github.com/Brainitech/Adaptive-WGAST-LST">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Brainitech&repo=Adaptive-WGAST-LST&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Brainitech&repo=Adaptive-WGAST-LST&theme=tokyonight&hide_border=true&v=1" />
 </a>
 
 <a href="https://github.com/Brainitech/ET-Gen-AI-Hackathon">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Brainitech&repo=ET-Gen-AI-Hackathon&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Brainitech&repo=ET-Gen-AI-Hackathon&theme=tokyonight&hide_border=true&v=2" />
 </a>
 <a href="https://github.com/Brainitech/DWM-dotfiles">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Brainitech&repo=DWM-dotfiles&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Brainitech&repo=DWM-dotfiles&theme=tokyonight&hide_border=true&v=1" />
 </a>
 
 </div>
