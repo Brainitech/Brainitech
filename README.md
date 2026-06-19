@@ -43,6 +43,11 @@
 
 <img height="170"
   src="https://github-readme-stats.vercel.app/api?username=Brainitech&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+
+</div>
+
+<div align="center">
+  
 <img height="170"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brainitech&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
 
@@ -50,7 +55,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Brainitech&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=Brainitech&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com/?user=Brainitech&theme=tokyonight&hide_border=true&short_numbers=true&mode=weekly" />
 
 </div>
 
